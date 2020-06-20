@@ -1,6 +1,5 @@
-import React , {useState} from 'react';
+import React from 'react';
 import './App.css';
-import bg from './dollar-bg.jpg'
 import Header from './components/Header'
 import Balance from './components/Balance'
 import IncomeExpense from './components/IncomeExpense'
