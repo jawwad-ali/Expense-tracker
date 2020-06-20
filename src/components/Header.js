@@ -6,6 +6,7 @@ export default function Header() {
             <h2>
                 Expense Tracker
             </h2>            
+            <small>by &copy; Ali Jawwad</small>
         </div>
     )
 }
